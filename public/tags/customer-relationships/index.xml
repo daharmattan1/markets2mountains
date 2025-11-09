@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Customer-Relationships on Markets2Mountains</title>
+    <link>http://localhost:56062/tags/customer-relationships/</link>
+    <description>Recent content in Customer-Relationships on Markets2Mountains</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2025 Victor Sowers. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:56062/tags/customer-relationships/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Fruit Guy is a Cross-Selling Machine</title>
+      <link>http://localhost:56062/posts/fruit-guy-cross-selling-machine/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56062/posts/fruit-guy-cross-selling-machine/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

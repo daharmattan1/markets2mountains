@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Markets2Mountains</title>
+    <link>http://localhost:56062/tags/</link>
+    <description>Recent content in Tags on Markets2Mountains</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2025 Victor Sowers. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:56062/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customer-Relationships</title>
+      <link>http://localhost:56062/tags/customer-relationships/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56062/tags/customer-relationships/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gtm</title>
+      <link>http://localhost:56062/tags/gtm/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56062/tags/gtm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sales</title>
+      <link>http://localhost:56062/tags/sales/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56062/tags/sales/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mindfulness</title>
+      <link>http://localhost:56062/tags/mindfulness/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56062/tags/mindfulness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philosophy</title>
+      <link>http://localhost:56062/tags/philosophy/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56062/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>http://localhost:56062/tags/productivity/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56062/tags/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flow</title>
+      <link>http://localhost:56062/tags/flow/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56062/tags/flow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Systems</title>
+      <link>http://localhost:56062/tags/systems/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56062/tags/systems/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

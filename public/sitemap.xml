@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>http://localhost:56062/about/</loc>
+            <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:56062/</loc>
+            <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:56062/posts/fruit-guy-cross-selling-machine/</loc>
+            <lastmod>2019-04-08T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:56062/posts/</loc>
+            <lastmod>2019-04-08T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:56062/posts/dont-let-your-tea-get-cold/</loc>
+            <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:56062/posts/the-victor-method/</loc>
+            <lastmod>2018-11-20T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+</urlset>

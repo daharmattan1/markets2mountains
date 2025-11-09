@@ -1,0 +1,38 @@
+languageCode = "en-us"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Markets2Mountains"
+copyright = "© 2025 Victor Sowers. All rights reserved."
+
+[params]
+  dateFormat = "January 2, 2006"
+  mainSections = ["posts"]
+  description = "Thoughts from the intersection of markets and mountains - GTM strategy, startups, productivity, and life."
+
+[params.author]
+  name = "Victor Sowers"
+  headline = "GTM Executive, AI Builder, Father of Two"
+  bio = "I help startups scale through AI-powered go-to-market. Currently building growth systems at Pixee. Former VP RevOps at CB Insights (60x growth) and BurnAlong (acquired). Father, Quaker, backpacker, tea enthusiast."
+  links = [
+    { linkedin = "https://linkedin.com/in/victorsowers" },
+    { github = "https://github.com/victorsowers" },
+  ]
+
+[params.homepage]
+  layout = "profile" # page, profile, hero, card, background, custom
+  showRecent = true
+  recentLimit = 5
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 20
