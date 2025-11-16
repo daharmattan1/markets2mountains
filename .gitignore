@@ -1,0 +1,36 @@
+# Hugo build artifacts
+public/
+resources/
+.hugo_build.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+nul
+
+# Migration and conversion scripts (keep local only)
+*.py
+wordpress-export.xml
+*.txt
+*.log
+
+# Backup and temp files
+BACKUP/
+*_backup/
+
+# Progress and status docs (already captured in git history)
+COMPREHENSIVE_FIX_PLAN.md
+CONGO_REFERENCE.md
+CONGO_STYLING_PLAN.md
+CONGO_THEME_STATUS.md
+FINAL_STATUS_REPORT.md
+MIGRATION_COMPLETE.md
+QA_PLAN.md
+QUICK_REFERENCE.md
+SESSION_HANDOFF.md
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

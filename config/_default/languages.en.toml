@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Markets2Mountains"
+copyright = "&copy; 2024 Victor Sowers"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  mainSections = ["posts"]
+  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+
+[params.author]
+  name = "Victor Sowers"
+  image = "markets2mountains.png"
+  headline = "GTM Executive | AI Builder"
+  bio = "15+ years scaling B2B SaaS GTM. Writing about markets, mindset, and mountains."
+  links = [
+    { linkedin = "https://linkedin.com/in/victorsowers" },
+    { github = "https://github.com/darharmattan1" },
+  ]

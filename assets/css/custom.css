@@ -1,0 +1,44 @@
+/* Custom Fonts: DM Sans for headers, Instrument Sans for body */
+body {
+  font-family: "Instrument Sans", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+}
+
+h1, h2, h3, h4, h5, h6,
+.prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 {
+  font-family: "DM Sans", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+}
+
+/* Also apply to site title and navigation */
+header h1,
+nav,
+.menu {
+  font-family: "DM Sans", ui-sans-serif, system-ui, sans-serif !important;
+}
+
+/* Center article content with max-width for Medium.com aesthetic */
+article.max-w-full {
+  max-width: 42rem !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Ensure prose content is also centered */
+.prose {
+  max-width: 42rem !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Center article header */
+.article-header {
+  max-width: 42rem !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Center main article container */
+main article {
+  max-width: 42rem !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
