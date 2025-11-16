@@ -42,3 +42,14 @@ main article {
   margin-left: auto !important;
   margin-right: auto !important;
 }
+
+/* Constrain social media icon sizes on profile page */
+.author-links a svg,
+.author-links svg,
+[class*="social"] svg,
+.profile-links svg {
+  max-width: 1.5rem !important;
+  max-height: 1.5rem !important;
+  width: 1.5rem !important;
+  height: 1.5rem !important;
+}

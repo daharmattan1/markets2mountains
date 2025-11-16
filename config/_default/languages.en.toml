@@ -15,8 +15,8 @@ copyright = "&copy; 2024 Victor Sowers"
 [params.author]
   name = "Victor Sowers"
   image = "markets2mountains.png"
-  headline = "GTM Executive | AI Builder"
-  bio = "15+ years scaling B2B SaaS GTM. Writing about markets, mindset, and mountains."
+  headline = "Ex-Founder / 3x Startup VP / Investor"
+  bio = "Perspectives on living life from markets to mountains"
   links = [
     { linkedin = "https://linkedin.com/in/victorsowers" },
     { github = "https://github.com/darharmattan1" },
