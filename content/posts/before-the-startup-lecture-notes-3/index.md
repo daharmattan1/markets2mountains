@@ -6,7 +6,6 @@ draft: false
 summary: "This is a continuation of my notes covering Sam Altman's [startup class](http://startupclass.samaltman.com/). You can also check out the intro notes ([p..."
 aliases:
   - /2015/01/31/before-the-startup-lecture-notes-3/
-  - /before-the-startup-lecture-notes-3/
 ---
 
 This is a continuation of my notes covering Sam Altman's [startup class](http://startupclass.samaltman.com/). You can also check out the intro notes ([part 1](http://markets2mountains.com/life/startups/startup-class-notes-lec1a/) and [part 2](http://markets2mountains.com/life/startups/startup-class-notes-lec1b/)) and [lecture 2](http://markets2mountains.com/life/startups/building-great-team-startup-class-notes-lec2/) which is about building a great team.

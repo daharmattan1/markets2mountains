@@ -8,7 +8,6 @@ tags:
   - leverage
 aliases:
   - /2016/03/07/how-to-create-leverage/
-  - /how-to-create-leverage/
 ---
 
 In life (and business) we're often dealing with finite resources. Scarcity exists and that means we have to get creative to achieve what we want.

@@ -9,7 +9,6 @@ tags:
   - dissonance
 aliases:
   - /2016/07/19/using-cognitive-dissonance-to-hustle/
-  - /using-cognitive-dissonance-to-hustle/
 ---
 
 If you're in the startup world you're probably familiar with the concept that ideas aren't worth very much. Instead it's all about execution.

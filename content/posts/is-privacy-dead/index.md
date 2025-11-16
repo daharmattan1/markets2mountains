@@ -6,7 +6,6 @@ draft: false
 summary: "Is privacy dead? Do we still maintain the desire to safeguard our habits and thoughts? Or does our recent disregard for privacy show that we have really..."
 aliases:
   - /2015/02/05/is-privacy-dead/
-  - /is-privacy-dead/
 ---
 
 Is privacy dead? Do we still maintain the desire to safeguard our habits and thoughts? Or does our recent disregard for privacy show that we have really lost this primal need?

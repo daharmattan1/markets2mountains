@@ -9,7 +9,6 @@ tags:
   - private
 aliases:
   - /2016/01/21/religious-practices-as-a-private-or-public-good/
-  - /religious-practices-as-a-private-or-public-good/
 ---
 
 My girlfriend and I recently had a discussion with [Rabbi Irwin Kula](http://www.clal.org/node/806) where he voiced his concern that many establishment Jewish religious organizations were too entrenched in keeping their core religious practices private. His overarching point was that keeping traditions insular prevents their wisdom from spreading beyond a small group. Second and maybe just as important, imposing any barriers to spiritual innovation also needlessly risks the obsolescence of a religion’s practices within the practicing group itself.

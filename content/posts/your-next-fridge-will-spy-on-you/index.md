@@ -6,7 +6,6 @@ draft: false
 summary: "With the proliferation of the connected world, privacy (or the lack thereof) should be a major concern for us as citizens. But it isn't yet. So let me p..."
 aliases:
   - /2015/01/07/your-next-fridge-will-spy-on-you/
-  - /your-next-fridge-will-spy-on-you/
 ---
 
 With the proliferation of the connected world, privacy (or the lack thereof) should be a major concern for us as citizens. But it isn't yet. So let me paint a picture of one potential not-so-distant future involving the most mundane of household appliances—your refrigerator.

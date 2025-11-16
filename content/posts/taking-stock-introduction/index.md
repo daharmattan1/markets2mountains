@@ -6,7 +6,6 @@ draft: false
 summary: "I am constantly amazed that close to 100% of my close friends know next to nothing about finance and investing. When I say that, I'm not talking about s..."
 aliases:
   - /2014/07/03/taking-stock-introduction/
-  - /taking-stock-introduction/
 ---
 
 <p style="color: #000000; font-family: Tahoma; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: medium;">I am constantly amazed that close to 100% of my close friends know next to nothing about finance and investing. When I say that, I'm not talking about super complex investment concepts either. I'm talking about basic strategies for taking care of your money and building a secure financial future for yourself. I'm talking about avoiding major mistakes that can screw you over. I'm talking about taking care of "the money thing" so you can focus on things you care more about.

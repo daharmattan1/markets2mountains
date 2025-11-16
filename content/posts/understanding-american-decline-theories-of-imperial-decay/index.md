@@ -6,7 +6,6 @@ draft: false
 summary: "The argument that the U.S. has entered a period of decline is a pretty popular one."
 aliases:
   - /2014/07/27/understanding-american-decline-theories-of-imperial-decay/
-  - /understanding-american-decline-theories-of-imperial-decay/
 ---
 
 The argument that the U.S. has entered a period of decline is a pretty popular one.

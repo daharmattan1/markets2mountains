@@ -6,7 +6,6 @@ draft: false
 summary: "Here's the deal. No one cares about the money you make more than you."
 aliases:
   - /2014/12/18/lesson-1-no-one-cares-about-your-money-more-than-you/
-  - /lesson-1-no-one-cares-about-your-money-more-than-you/
 ---
 
 Here's the deal. No one cares about the money you make more than you.

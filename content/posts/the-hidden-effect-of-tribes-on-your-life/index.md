@@ -9,7 +9,6 @@ tags:
   - tribes
 aliases:
   - /2020/01/02/the-hidden-effect-of-tribes-on-your-life/
-  - /the-hidden-effect-of-tribes-on-your-life/
 ---
 
 I’m watching people come and go on the dusty streets of Kuta, Lombok, an island in Indonesia. The foreigners I see through the coffee shop window come from dozens of countries, yet as they walk through the dusty streets and hop on their motorbikes it’s clear that about 80% of them are all cut from the same cloth.

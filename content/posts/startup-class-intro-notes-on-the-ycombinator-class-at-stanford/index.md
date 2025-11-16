@@ -7,7 +7,6 @@ summary: "## What is this Startup Class?
 This is a phenomenal free course organized by Sam Altman, the President of YCombinator, with an express goal to teach \"Ev..."
 aliases:
   - /2014/12/16/startup-class-intro-notes-on-the-ycombinator-class-at-stanford/
-  - /startup-class-intro-notes-on-the-ycombinator-class-at-stanford/
 ---
 
 ## What is this Startup Class?

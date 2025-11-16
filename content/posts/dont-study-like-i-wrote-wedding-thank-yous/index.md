@@ -9,7 +9,6 @@ tags:
   - wrote
 aliases:
   - /2018/05/27/dont-study-like-i-wrote-wedding-thank-yous/
-  - /dont-study-like-i-wrote-wedding-thank-yous/
 ---
 
 Don’t study like I write wedding thank you cards. Study like my wife wrote hers.

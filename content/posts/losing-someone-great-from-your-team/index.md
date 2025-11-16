@@ -9,7 +9,6 @@ tags:
   - great
 aliases:
   - /2018/09/08/losing-someone-great-from-your-team/
-  - /losing-someone-great-from-your-team/
 ---
 
 Losing someone great from your team is a hard blow.

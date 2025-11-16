@@ -6,7 +6,6 @@ draft: false
 summary: "Just about five months since Facebook bought Whatsapp for an unprecedented $19 billion (representing 1/10th of Facebook's total market cap). Some of the..."
 aliases:
   - /2014/07/14/even-my-mom-uses-whatsapp/
-  - /even-my-mom-uses-whatsapp/
 ---
 
 Just about five months since Facebook bought Whatsapp for an unprecedented $19 billion (representing 1/10th of Facebook's total market cap). Some of the controversy surrounding the sticker price has worn off with the passage of time.

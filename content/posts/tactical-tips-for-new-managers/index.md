@@ -9,7 +9,6 @@ tags:
   - managers
 aliases:
   - /2018/05/27/tactical-tips-for-new-managers/
-  - /tactical-tips-for-new-managers/
 ---
 
 When you become a manager what you do, how you spend your time, and how you are measured all changes. You rely on people more than ever. And they rely on you more too.

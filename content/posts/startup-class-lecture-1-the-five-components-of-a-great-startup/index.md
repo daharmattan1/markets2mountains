@@ -6,7 +6,6 @@ draft: false
 summary: "This post is a continuation of [Lecture 1](http://startupclass.samaltman.com/courses/lec01/) of YCombinator's class at Stanford called '[*Startup Class*..."
 aliases:
   - /2014/12/17/startup-class-lecture-1-the-five-components-of-a-great-startup/
-  - /startup-class-lecture-1-the-five-components-of-a-great-startup/
 ---
 
 This post is a continuation of [Lecture 1](http://startupclass.samaltman.com/courses/lec01/) of YCombinator's class at Stanford called '[*Startup Class*](http://startupclass.samaltman.com/)' which aims to teach “everything we know about how to start a startup, for free, from some of the world experts.” Whereas my [first set of notes about the class ](http://markets2mountains.com/life/startups/startup-class-notes-lec1a/)talks about cautionary note on the difficulty of starting a startup (and why I'm writing these notes at all), this part of the lecture, given by Sam Altman, really starts delving into what makes a great startup.

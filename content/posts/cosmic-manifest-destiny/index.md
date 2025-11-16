@@ -9,7 +9,6 @@ tags:
   - destiny
 aliases:
   - /2015/01/23/cosmic-manifest-destiny/
-  - /cosmic-manifest-destiny/
 ---
 
 I read a very provocative [interview of Elon Musk in Aeon Magazine](http://aeon.co/magazine/technology/the-elon-musk-interview-on-mars/) in which he argues that we must put a million people on Mars if we were to ensure that humanity has a future. Whether you agree or disagree with that particular vision, it made me start to think about how powerful we are collectively when united to pursue something bigger than ourselves.

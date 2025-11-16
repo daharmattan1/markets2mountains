@@ -7,7 +7,6 @@ tags:
   - work
 aliases:
   - /2018/10/06/what-do-you-do-after-work/
-  - /what-do-you-do-after-work/
 ---
 
 A few days ago, one of the most junior people on my team: a bad-ass, intelligent, driven woman asked the team what we do when we’re not working.

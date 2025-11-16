@@ -9,7 +9,6 @@ tags:
   - short
 aliases:
   - /2018/05/27/dont-sell-yourself-short-lessons-in-not-fcking-up-your-job-interview/
-  - /dont-sell-yourself-short-lessons-in-not-fcking-up-your-job-interview/
 ---
 
 I interview a lot of people for a lot of different roles at a range of seniority levels (many more senior than me). No matter who it is or what job it’s for, all of the serious job applicants have a pretty straightforward goal — get the job offer.

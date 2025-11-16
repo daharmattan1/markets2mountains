@@ -9,7 +9,6 @@ tags:
   - wedding
 aliases:
   - /2018/05/27/the-kippah-at-not-my-jewish-wedding/
-  - /the-kippah-at-not-my-jewish-wedding/
 ---
 
 I’ve written a bit about the interfaith journey my wife and I are on, but mostly this has centered on the conversations around what it would mean to marry.

@@ -9,7 +9,6 @@ tags:
   - fake
 aliases:
   - /2018/09/27/jerry-seinfelds-fake-visual-hack-for-habits-actually-works/
-  - /jerry-seinfelds-fake-visual-hack-for-habits-actually-works/
 ---
 
 You're only reading this because this habit has helped me and I think its worth you trying it.

@@ -9,7 +9,6 @@ tags:
   - mental
 aliases:
   - /2018/11/10/11-game-changing-mental-models-from-finance/
-  - /11-game-changing-mental-models-from-finance/
 ---
 
 There's no doubt that mental models are powerful. Whether rules-of-thumb, more elaborate heuristics, or complete scaffolds on which to hang components of knowledge, each mental model serves as a framework to better understand the world. That’s why, amongst others, Charlie Munger stresses their utility across all professions.

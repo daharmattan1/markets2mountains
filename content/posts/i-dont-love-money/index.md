@@ -6,7 +6,6 @@ draft: false
 summary: "You know those movies where the bad-guy caresses a giant suitcase of money like it's his favorite lover? How many times have you thought to yourself, ma..."
 aliases:
   - /2014/07/23/i-dont-love-money/
-  - /i-dont-love-money/
 ---
 
 You know those movies where the bad-guy caresses a giant suitcase of money like it's his favorite lover? How many times have you thought to yourself, man I'd love to have that cash!? <!--more-->

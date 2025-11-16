@@ -9,7 +9,6 @@ tags:
   - person
 aliases:
   - /2016/10/07/firing-my-first-person-because-of-avoidable-mistakes/
-  - /firing-my-first-person-because-of-avoidable-mistakes/
 ---
 
 The first time I fired someone was one of the hardest experiences of my life.

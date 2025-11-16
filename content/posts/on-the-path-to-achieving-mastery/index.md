@@ -9,7 +9,6 @@ tags:
   - mastery
 aliases:
   - /2019/01/16/on-the-path-to-achieving-mastery/
-  - /on-the-path-to-achieving-mastery/
 ---
 
 Achieving mastery requires some uncommon things. That’s obvious enough, if it were simple and common, there would be many more masters.<!--more-->

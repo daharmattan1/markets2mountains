@@ -7,7 +7,6 @@ tags:
   - cold
 aliases:
   - /2016/04/30/dont-let-your-tea-get-cold/
-  - /dont-let-your-tea-get-cold/
 ---
 
 **Don't let your tea get cold.**

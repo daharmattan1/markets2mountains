@@ -7,7 +7,6 @@ summary: "*A Sneak Peak before the Semi-finals *
 In my opinion, Holland has been the class of the 2014 World Cup tournament. Much like the other semi-finalists, t..."
 aliases:
   - /2014/07/08/through-semifinals-dutch-class-of-the-2014-world-cup/
-  - /through-semifinals-dutch-class-of-the-2014-world-cup/
 ---
 
 *A Sneak Peak before the Semi-finals *

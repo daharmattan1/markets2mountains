@@ -6,7 +6,6 @@ draft: false
 summary: "These are my notes for [Lecture 2](http://startupclass.samaltman.com/courses/lec02/) of Sam Altman's Startup class. The course, organized by Sam Altman,..."
 aliases:
   - /2015/01/09/building-a-great-team-executing-well-startup-class-lecture-2-notes/
-  - /building-a-great-team-executing-well-startup-class-lecture-2-notes/
 ---
 
 These are my notes for [Lecture 2](http://startupclass.samaltman.com/courses/lec02/) of Sam Altman's Startup class. The course, organized by Sam Altman, the President of YCombinator, has the express goal of teaching "everything we know about how to start a startup, for free, from some of the world experts." You can also see my notes for the [intro](http://markets2mountains.com/life/startups/startup-class-notes-lec1a/) and [Lecture 1](http://markets2mountains.com/life/startups/startup-class-notes-lec1b/).

@@ -9,7 +9,6 @@ tags:
   - creating
 aliases:
   - /2018/05/27/data-slogs-creating-alignment-for-ops-teams/
-  - /data-slogs-creating-alignment-for-ops-teams/
 ---
 
 <blockquote style="font-style: italic; color: rgba(0, 0, 0, 0.75);">Data slog: The often grueling and mind-numbing process of cleaning and standardizing your data to ensure it is reliable enough to use for analysis

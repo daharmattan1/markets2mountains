@@ -8,7 +8,6 @@ tags:
   - looking
 aliases:
   - /2016/03/02/look-by-not-looking/
-  - /look-by-not-looking/
 ---
 
 Have you ever misplaced your keys and not been able to find them? Does it always seem like it always happens when you can least afford the time and inconvenience? Of course you have, and of course it does.

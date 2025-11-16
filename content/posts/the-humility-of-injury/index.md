@@ -8,7 +8,6 @@ tags:
   - injury
 aliases:
   - /2018/08/19/the-humility-of-injury/
-  - /the-humility-of-injury/
 ---
 
 Right before Labor Day I fractured my ankle in two places and partially tore three ligaments. It was obviously painful as hell, but it could have been a lot worse.  Three months later, with the end of summer looming, I am still rehabbing. Walking around a city is fine, but running, tennis, and hiking are still distant. It's been a process.

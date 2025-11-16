@@ -6,7 +6,6 @@ draft: false
 summary: "Last month I bought MCD with the intention of holding the stock for an extended period of time in my retirement portfolio. In this post I'm sharing the ..."
 aliases:
   - /2014/07/11/mcdonalds-why-im-loving-its-stock/
-  - /mcdonalds-why-im-loving-its-stock/
 ---
 
 Last month I bought MCD with the intention of holding the stock for an extended period of time in my retirement portfolio. In this post I'm sharing the basic reasons for why I bought the stock last month at just under $98 a share.

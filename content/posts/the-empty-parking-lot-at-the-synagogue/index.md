@@ -9,7 +9,6 @@ tags:
   - synagogue
 aliases:
   - /2016/10/06/the-empty-parking-lot-at-the-synagogue/
-  - /the-empty-parking-lot-at-the-synagogue/
 ---
 
 I walk into the Rosh Hashanah service. It’s the evening before, so admittedly not the high point of the High Holiday.

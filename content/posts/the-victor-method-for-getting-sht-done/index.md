@@ -9,7 +9,6 @@ tags:
   - getting
 aliases:
   - /2016/01/07/the-victor-method-for-getting-sht-done/
-  - /the-victor-method-for-getting-sht-done/
 ---
 
 The Victor method, for lack of a more creative description, is what I call my process for getting shit done. It’s a system that I’ve built to both try and welcome in a state of flow while also building in the right constraints and channels to enable me to produce even when that flow doesn’t come and putting out anything is just a tedious, painful grind.

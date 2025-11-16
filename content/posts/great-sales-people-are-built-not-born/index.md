@@ -9,7 +9,6 @@ tags:
   - people
 aliases:
   - /2019/02/10/great-sales-people-are-built-not-born/
-  - /great-sales-people-are-built-not-born/
 ---
 
 Over the last 4 years I’ve been part of promoting 24+ folks from the sales (business) development rep (SDR/BDR) role. Most of these SDRs have gone from college to their first closing role as an AE at an enterprise SaaS company within 18-24 months.

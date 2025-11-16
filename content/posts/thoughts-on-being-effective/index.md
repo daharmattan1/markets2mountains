@@ -9,7 +9,6 @@ tags:
   - effective
 aliases:
   - /2018/09/21/thoughts-on-being-effective/
-  - /thoughts-on-being-effective/
 ---
 
 I recently read Peter Drucker’s *The Effective Executive. *Like so many others before me the book had a large impact. There was much for me to learn, even more for me to re-center on. It was also a welcome articulation of a concept I think I’ve known and gravitated to for a long time: (1) find and work with effective individuals because (2) they’re rarer than you want to believe.

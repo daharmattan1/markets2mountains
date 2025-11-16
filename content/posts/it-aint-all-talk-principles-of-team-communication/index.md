@@ -9,7 +9,6 @@ tags:
   - team
 aliases:
   - /2018/08/18/it-aint-all-talk-principles-of-team-communication/
-  - /it-aint-all-talk-principles-of-team-communication/
 ---
 
 It's a truism that communication is vital to a team's success.

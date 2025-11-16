@@ -6,7 +6,6 @@ draft: false
 summary: "**“In a startup you have lots of worries, but you don’t have that feeling that your life is flying by like you do in a big company. Plus in a startup yo..."
 aliases:
   - /2014/07/30/why-a-start-up-job-is-just-different/
-  - /why-a-start-up-job-is-just-different/
 ---
 
 <blockquote> **<em class="post-pEm">“In a startup you have lots of worries, but you don’t have that feeling that your life is flying by like you do in a big company. Plus in a startup you could make much more money.”[ref] </em><a title="Graham on web startups" href="paulgraham.com/webstartups.htmlhttp://" target="_blank">http://paulgraham.com/webstartups.html]</a>**<em class="post-pEm">**. [/ref]**</em>  -Paul Graham, Founder of Y Combinator</blockquote>

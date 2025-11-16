@@ -9,7 +9,6 @@ tags:
   - path
 aliases:
   - /2019/01/30/the-stupidest-successful-path-to-a-profitable-side-hustle/
-  - /the-stupidest-successful-path-to-a-profitable-side-hustle/
 ---
 
 Would you like to build a business with your friend to $120,000+ in revenue while keeping your full time job?

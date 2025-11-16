@@ -9,6 +9,10 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 summaryLength = 25
 
+# Clean permalinks (slug only, no dates)
+[permalinks]
+  posts = "/:slug/"
+
 [pagination]
   pagerSize = 15
 

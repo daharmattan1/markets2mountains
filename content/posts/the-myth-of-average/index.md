@@ -8,7 +8,6 @@ tags:
   - average
 aliases:
   - /2019/03/18/the-myth-of-average/
-  - /the-myth-of-average/
 ---
 
 There's no such thing as an average leader. Or employee. Neutral impact is a myth.
