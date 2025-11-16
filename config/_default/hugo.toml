@@ -3,7 +3,7 @@
 # https://jpanther.github.io/congo/docs/getting-started/
 
 theme = "congo"
-baseURL = "https://markets2mountains.com/"
+baseURL = "https://daharmattan1.github.io/markets2mountains/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
